@@ -24,6 +24,7 @@
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="Android" src="https://img.shields.io/badge/Android-1CB018?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 
 <br>
