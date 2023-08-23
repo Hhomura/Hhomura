@@ -7,9 +7,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008516886501)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/f_hhomuraa)
 
-![Hhomura GitHub stats](https://github-readme-stats.vercel.app/api?username=Hhomura&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hhomura&layout=compact)](https://github.com/Hhomura/github-readme-stats)<br>
 
 ### Tecnologias usadas atualmente
 
@@ -26,6 +23,7 @@
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="Android" src="https://img.shields.io/badge/Android-1CB018?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
+
 
 <br>
 ⢿⣿⣿⣿⣁⣉⣤⣴⣶⡀⠉⢠⣶⣦⣀⣽⣿⣿⣿⣿⠇⢠⣴⣦⣄⣉⣥⣿⣿⣿⡇⠔⢠⣴⣶⣬⡐⠊⠙⢿⣿⣿⣦⡌⠙⠛⠛⢻⣿⣿⡟⠛⠛⠋⢸⣿⣿⣿⠁⠀⣥⣿⣿⣿⣿
