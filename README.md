@@ -1,13 +1,5 @@
 ### Felipe Santos Ramos 🧑‍💻
 
-## portfólio 👇
-<a href="https://hhomura.github.io/fs-profile/" target="_blank">
-<img style="width: 50%;
-    border: 3px solid purple;
-    border-radius: 50%;
-    transition: 0.4s;"  src="https://i.gifer.com/8LIl.gif" alt="Nagato Yuki from Suzumiya Haruhi"/>
-</a>
-
 ##
 
 ### Contatos
