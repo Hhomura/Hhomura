@@ -1,14 +1,30 @@
 ### Felipe Santos Ramos 🧑‍💻
 
+## portfólio 👇
+<a href="https://hhomura.github.io/fs-profile/" target="_blank">
+<img style="width: 50%;
+    border: 3px solid purple;
+    border-radius: 50%;
+    transition: 0.4s;"  src="https://i.gifer.com/8LIl.gif" alt="Nagato Yuki from Suzumiya Haruhi"/>
+</a>
+
+##
+
 ### Contatos
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santos-ramos-305813200/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_emyy4/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008516886501)
 
+##
+
 ![Hhomura GitHub stats](https://github-readme-stats.vercel.app/api?username=Hhomura&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hhomura&layout=compact)](https://github.com/Hhomura/github-readme-stats)<br>
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hhomura&layout=compact)](https://github.com/Hhomura/github-readme-stats)
+
+##
 
 ### Tecnologias usadas atualmente
 
@@ -24,8 +40,8 @@
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
+##
 
-<br>
 ⣿⣿⡏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -59,6 +75,6 @@
 ⣿⣿⣿⠟⠁⣾⣿⡇⢹⣿⣿⣿⡿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀
 ⣿⣿⠋⠀⢰⣿⣿⣿⢸⣿⣿⣿⢁⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⢸⣿⣿⠀
 ⡿⠃⠀⠀⣿⣿⣿⣿⡘⣿⡿⢃⣾⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⢀⣼⣿⣿⠀
-<br>
-<br>
->>>>💻📚🔥🎵🍃>>>>
+##
+>>>>>>🎵🍃
+##
